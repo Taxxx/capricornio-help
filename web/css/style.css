@@ -1,0 +1,39 @@
+body{
+	background: #EEEEEE;
+}
+#consultoria_datos_generales{
+
+}
+#consultoria_datos_generales label{
+    display: inline-block;
+    margin: 0.2em;
+    vertical-align: top;
+    width: 20%;
+}
+#consultoria_datos_generales input{
+    display: inline-block;
+    margin: 0.2em;
+    vertical-align: top;
+    width: 78%;
+}
+#consultoria_datos_generales label, #consultoria_datos_generales input{
+    display: inline-block;
+    margin: 0.2em;
+    vertical-align: top;
+    //width: 49%;
+}
+#consultoria_detalle{
+	width: 100%;
+}
+#tabla_consultoria_detalle{
+	width: 100%;
+	text-align: center;
+}
+#tabla_consultoria_detalle, th, td{
+	//border: 1px;
+	border: solid 1px;
+	//width: 100%;
+}
+#fin_consultoria{
+	margin-left: 45%;
+}
