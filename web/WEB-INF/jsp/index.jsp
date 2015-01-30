@@ -26,7 +26,7 @@
             <div id="consultoria_detalle">
                 <table id="tabla_consultoria_detalle">
                     <tr>
-                        <th>Tipo Item</th>
+                        <th>Tipo Item :P :P :P</th>
                         <th>Articulo</th>		
                         <th>Unidad de Medida</th>
                         <th>Cantidad Pedida</th>
